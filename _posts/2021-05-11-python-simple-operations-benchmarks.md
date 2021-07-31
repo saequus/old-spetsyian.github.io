@@ -2,7 +2,7 @@
 layout: post
 title:  'Python Simple Operations Benchmarks'
 date:   2021-05-11 13:00:00 +0300
-categories: poem
+categories: post
 author: Slava Spetsyian
 email: slava@spetsyian.com
 excerpt: 
