@@ -9,7 +9,7 @@ excerpt:
 type: blogpost
 lang: en
 ---
-### Following is written answer from Jordan Peterson for a question about unlocking your potential.
+### Following is a text of the answer made by Jordan Peterson to Joe Rogan, unveiling the secret of unlocking human potential.
 
 We already know from the clinical perspective that if you set up a path towards the goal it provides you with paused emotions because it implies hierarchy. You set up something as valuable, so you pick up something and going to do it instead of other things which becomes a sacrifice because you sacrifice something in pursue of your goal.
 
